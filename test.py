@@ -1,7 +1,7 @@
 
 import pytest
 import hypothesis.strategies as st
-from hypothesis import given
+from Pytest import given
 import main
 
 def testing_fun1():
